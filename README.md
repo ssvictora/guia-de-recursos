@@ -128,6 +128,7 @@ Una colección de Recursos Gratuitos de Programación, Desarrollo Web, Wordpress
 
 * [Curso de Fundamentos de Git y Github - **Devcode**](https://devcode.la/cursos/git/)
 * [Curso de Git y Github - **Fazt Web**](http://www.faztweb.com/curso/git)
+* [Curso de Git & Github - **MitoCode**](https://www.youtube.com/playlist?list=PLvimn1Ins-43-1sXQmGZPWLjNjPyGNi0R)
 
 
 ## Programación Backend
