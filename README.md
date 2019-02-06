@@ -26,6 +26,7 @@ Una colección de Recursos Gratuitos de Programación, Desarrollo Web, Wordpress
   * [**Base de Datos**](#base-de-datos)
     * [SQL](#sql)
       * [MySQL](#mysql)
+      * [SQL Server](#sqlserver)
     * [NoSQL](#nosql)
        * [MongoDB](#mongodb)
   * [**Desarrollo de Aplicaciones Android**](#desarrollo-de-aplicaciones-android)
@@ -152,7 +153,7 @@ Una colección de Recursos Gratuitos de Programación, Desarrollo Web, Wordpress
 
 
 ## Base de Datos
-*Aprende los conceptos básicos de las **Base de Datos.***
+*Aprende los conceptos básicos de las **Bases de Datos.***
 
 
 ### SQL
@@ -162,12 +163,15 @@ Una colección de Recursos Gratuitos de Programación, Desarrollo Web, Wordpress
 #### MySQL
 * [Curso de Fundamentos de SQL - **SoloLearn**](https://www.sololearn.com/Course/SQL/)
 
-
+#### SQL Server
+* [Curso Básico de SQL Server 2005 - **Aulaclic**](https://www.aulaclic.es/sqlserver/)
+* [Cursos de SQL Server - **Microsoft**](https://www.microsoft.com/es-mx/learning/sql-training.aspx)
 
 
 ### NoSQL
 ---
-
+#### CosmosDB
+* [Documentación de Azure CosmosDB - **Microsoft**](https://docs.microsoft.com/en-us/azure/cosmos-db/)
 
 #### MongoDB
 * [Curso de MongoDB - **Fazt Web**](http://www.faztweb.com/curso/mongodb)
@@ -192,4 +196,5 @@ Una colección de Recursos Gratuitos de Programación, Desarrollo Web, Wordpress
 * [Curso de Java Intermedio - **La Geekipedia de Ernesto**](https://www.youtube.com/playlist?list=PLyvsggKtwbLXEZjb8HrNTbWesTKIfpNak)
 * [Curso de Java - **Devcode**](https://devcode.la/cursos/fundamentos-java/)
 
-*Actualizado última vez: 7/2018**
+*Actualizado última vez: 2/2019*
+*Por: marcoah*
